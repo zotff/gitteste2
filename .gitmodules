@@ -1,0 +1,4 @@
+[submodule "gitteste1"]
+	path = gitteste1
+	url = https://github.com/zotff/gitteste1.git
+	branch = master
